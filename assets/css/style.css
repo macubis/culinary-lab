@@ -1,0 +1,117 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+.first{
+	background-image: url(../img/menu_6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+    background-position: center;
+    color:white;
+}
+.navbar-default{
+    background-color: transparent;
+    border: none;
+}
+
+nav li a{
+	color:white !important;
+	font-size: 700;
+	font-weight: bolder;
+}
+.fondo{
+	padding: 100px;
+}
+.two{
+	padding: 30px 10px;
+}
+.titulo{
+	font-weight: 700;
+}
+.lista{
+	text-align:center;
+}
+.tree{
+	background-image: url(../img/menu_4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+    background-position: center;
+    color:white;
+}
+.tree{
+	height: 600px;
+	color:white;
+}
+.tree h2{
+	color:white;
+	font-size: 700;
+}
+.comida{
+	padding: 100px;
+}
+.btn-trans{
+	background-color:transparent;
+	border: 2px solid white;
+	color:white;
+	font-size: 700;
+	font-weight:bolder;
+}
+
+.four{
+	padding-top: 50px;
+}
+.four h2{
+	font-weight:700;
+	font-style: bolder;
+	border: 1px solid white;
+
+}
+.five{
+	background-color: white;
+	padding:30px 40px;
+}
+.five h2{
+	font-weight:700;
+	font-style: bolder;
+}
+.fil{
+	text-align: right;
+}
+.colum{
+	text-align: left;
+}
+.texto{
+	text-align: justify;
+}
+.fa-star{
+	color:yellow;
+}
+.six{
+	padding: 80px 30px;
+	background-color: black;
+	color:white;
+}
+.six h1{
+	font-size: 700;
+	font-weight: bolder;
+}
+.letra{
+	font-size: 20px;
+}
+.seven{
+	background-image: url(../img/menu_2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+    background-position: center;
+    color:white;
+    height: 500px;
+    padding: 50px;
+}
+.seven h1{
+
+	font-weight: 700;
+}
+.eigth{
+	padding: 50px;
+}
