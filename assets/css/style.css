@@ -115,3 +115,31 @@ nav li a{
 .eigth{
 	padding: 50px;
 }
+.fondo-negro{
+	background-color: black;
+	color: white; 
+	padding: 30px;
+}
+.fondo-foto{
+	background-image: url(../img/bg-footer.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+}
+.blanco{
+	color: white;
+}
+.uno{
+	padding: 30px;
+}
+.dos{
+	padding: 20px;
+	text-decoration: none;
+}
+.dos a{
+	font-size: 30px;
+}
+.tres{
+	padding: 30px;
+}
